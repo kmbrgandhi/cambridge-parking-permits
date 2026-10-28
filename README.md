@@ -6,22 +6,20 @@ A memo to the Cambridge City Council, May 27, 2026, by Kavish Gandhi, Vince Youn
 
 ## What the memo found
 
-- Cambridge's resident parking permit program costs about $2.74 million a year to run, against about $795,000 in permit fees (the City's estimate, April 2026).
+- Cambridge's resident parking permit program costs about $2.74 million a year to run, against about $795,000 in permit fees, based on April 2026 estimates from the City.
 - At an estimated cost of $100 per permit and a $25 fee, each of the roughly 16,400 Cambridge households without a car, about one in three, paid about $58 a year toward other residents' permits. That is about $950,000 a year in total, flowing to the roughly 33,000 households with cars.
 - Car-free households are disproportionately renters, lower-income, and close to the T. In the median census tract, 44% of renter households have no car, compared with 12% of owner households.
-- The memo supported raising the permit fee to $75, and recommended pairing it with a self-attested opt-out for low-income residents.
+- Based on this, we supported raising the permit fee to $75, and recommended pairing it with a self-attested opt-out for low-income residents.
 
 ## Update, October 2026
 
-The memo describes the fee change as a proposal. The City has since adopted it. Beginning with the 2027 permit season ([City of Cambridge, September 24, 2026](https://www.cambridgema.gov/departments/transportation/news/2026/09/rpp2027changes)):
+At the time, the fee change as a proposal. The City has since adopted it. Beginning with the 2027 permit season ([City of Cambridge, September 24, 2026](https://www.cambridgema.gov/departments/transportation/news/2026/09/rpp2027changes)):
 
 - The standard resident permit fee rises from $25 to $75.
 - Residents for whom $75 is a financial hardship can have the fee waived, and pay nothing.
 - The automatic waiver for residents 65 and older ends. Permits remain free for residents with a disability plate or placard.
 - Each resident may hold at most two permits, down from four.
 - Online renewals open December 1, 2026, and 2026 permits must be renewed by March 31, 2027.
-
-The memo itself is unchanged.
 
 ## Data and sources
 
