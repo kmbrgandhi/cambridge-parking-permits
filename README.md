@@ -13,13 +13,12 @@ A memo to the Cambridge City Council, May 27, 2026, by Kavish Gandhi, Vince Youn
 
 ## Update, October 2026
 
-At the time, the fee change was a proposal. The City has since adopted it. Beginning with the 2027 permit season ([City of Cambridge, September 24, 2026](https://www.cambridgema.gov/departments/transportation/news/2026/09/rpp2027changes)):
+At the time, the fee change was a proposal, but the City has since adopted it, beginning with the 2027 permit season ([City of Cambridge, September 24, 2026](https://www.cambridgema.gov/departments/transportation/news/2026/09/rpp2027changes)).  In particular, it adopted the following changes:
 
-- The standard resident permit fee rises from $25 to $75.
+- The standard resident permit fee is raised from $25 to $75.
 - Residents for whom $75 is a financial hardship can have the fee waived.
-- The automatic waiver for residents 65 and older ends.
-- Each resident may hold at most two permits, down from four.
-- Online renewals open December 1, 2026, and 2026 permits must be renewed by March 31, 2027.
+- There is no longer an automatic waiver for residents 65 and older.
+- Each resident may have at most two permits, down from four.
 
 ## Data and sources
 
