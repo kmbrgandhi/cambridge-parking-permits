@@ -6,8 +6,8 @@ A memo to the Cambridge City Council, May 27, 2026, by Kavish Gandhi, Vince Youn
 
 ## What the memo found
 
-- Cambridge's resident parking permit program costs about $2.74 million a year to run, against about $795,000 in permit fees, based on April 2026 estimates from the City.
-- At an estimated cost of $100 per permit and a $25 fee, each of the roughly 16,400 Cambridge households without a car, about one in three, paid about $58 a year toward other residents' permits. That is about $950,000 a year in total, flowing to the roughly 33,000 households with cars.
+- Cambridge's resident parking permit program costs about $2.74 million a year to run, compared to about $795,000 in permit fees, based on April 2026 estimates from the City.
+- At an estimated cost of $100 per permit and a $25 fee, each of the roughly 16,400 Cambridge households without a car, about one in three, paid about $58 a year toward other residents' permits. That is about $950,000 a year in total, flowing regressively to the roughly 33,000 households with cars.
 - Car-free households are disproportionately renters, lower-income, and close to the T. In the median census tract, 44% of renter households have no car, compared with 12% of owner households.
 - Based on this, we supported the proposed raising of the permit fee to $75, and recommended pairing it with a(n under consideration) self-attested opt-out for low-income residents.
 
